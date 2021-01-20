@@ -1,2 +1,0 @@
-@echo off
-shutdown -s -t 10 -c "g3t fuck3d by 1ch4m w1ll0cq MAHMOUD VEYZOX TIRAMISSOU>>ALL"
